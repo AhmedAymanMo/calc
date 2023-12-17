@@ -12,6 +12,7 @@ int main() {
     while (t--)
     {
         cout<<"t3del fel master ";
+        cout<<"ana fel first ";
     }
     return 0;
 }
