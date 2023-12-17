@@ -11,7 +11,7 @@ int main() {
     //cin>>t;
     while (t--)
     {
-        
+        cout<<"ana fel first ";
     }
     return 0;
 }
