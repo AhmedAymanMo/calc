@@ -11,7 +11,7 @@ int main() {
     //cin>>t;
     while (t--)
     {
-        
+        cout<<"t3del fel master ";
     }
     return 0;
 }
