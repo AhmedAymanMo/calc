@@ -4,7 +4,7 @@
 #define endl "\n"
 #define all(v) v.begin(),v.end()
 using namespace std;
-int sum(int a,int b)
+int summain(int a,int b)
 {
     return a+b;
 }
